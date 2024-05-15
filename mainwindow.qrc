@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/mainwindow">
+        <file>icons_circle.png</file>
+        <file>icons_cursor.png</file>
+        <file>icons_glass.png</file>
+        <file>icons_hexagon.png</file>
+        <file>icons_line.png</file>
+        <file>icons_pen.png</file>
+        <file>icons_pentagon.png</file>
+        <file>icons_rectangle.png</file>
+        <file>icons_star.png</file>
+        <file>icons_T.png</file>
+        <file>icons_circle_click.png</file>
+        <file>icons_glass_click.png</file>
+        <file>icons_hexagon_click.png</file>
+        <file>icons_line_click.png</file>
+        <file>icons_pen_click.png</file>
+        <file>icons_pentagon_click.png</file>
+        <file>icons_rectangle_click.png</file>
+        <file>icons_star_click.png</file>
+        <file>icons_T_click.png</file>
+        <file>icons_cursor_click.png</file>
+    </qresource>
+</RCC>
